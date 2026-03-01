@@ -1,113 +1,113 @@
 [
   {
     "id": 1,
-    "title": "Деревянный поддон Евростандарт",
+    "title": "Wooden Pallet Euro Standard",
     "image": "img/products/pr-1.webp",
     "price": 360,
     "currency": "₽",
-    "size": "1200х800, г.п. 2500 кг",
+    "size": "1200×800, load capacity 2500 kg",
     "details": {
-      "Длина": "1200 мм",
-      "Ширина": "800 мм",
-      "Высота": "144 мм",
-      "Грузоподъемность": "2500 кг",
-      "Материал": "древесина хвойных пород",
-      "Стандарт": "ГОСТ 33757-2016 / EUR",
-      "Влажность древесины": "18–22%",
-      "Количество заходов": "4-заходный",
-      "Вес": "20–25 кг"
+      "Length": "1200 mm",
+      "Width": "800 mm",
+      "Height": "144 mm",
+      "Load Capacity": "2500 kg",
+      "Material": "softwood",
+      "Standard": "GOST 33757-2016 / EUR",
+      "Wood Moisture": "18–22%",
+      "Entry Type": "4-way entry",
+      "Weight": "20–25 kg"
     }
   },
   {
     "id": 2,
-    "title": "Деревянный поддон стандарт",
+    "title": "Wooden Pallet Standard",
     "image": "img/products/pr-2.webp",
     "price": 300,
     "currency": "₽",
-    "size": "1200х800, г.п. 2500 кг",
+    "size": "1200×800, load capacity 2500 kg",
     "details": {
-      "Длина": "1200 мм",
-      "Ширина": "800 мм",
-      "Высота": "144 мм",
-      "Грузоподъемность": "2000–2500 кг",
-      "Материал": "древесина хвойных пород",
-      "Тип": "4-заходный",
-      "Вес": "18–23 кг"
+      "Length": "1200 mm",
+      "Width": "800 mm",
+      "Height": "144 mm",
+      "Load Capacity": "2000–2500 kg",
+      "Material": "softwood",
+      "Type": "4-way entry",
+      "Weight": "18–23 kg"
     }
   },
   {
     "id": 3,
-    "title": "Новый деревянный поддон",
+    "title": "New Wooden Pallet",
     "image": "img/products/pr-3.webp",
     "price": 360,
     "currency": "₽",
-    "size": "1200х800, г.п. 2500 кг",
+    "size": "1200×800, load capacity 2500 kg",
     "details": {
-      "Размер": "1200 мм",
-      "Грузоподъёмность": "до 2500 кг",
-      "Состояние": "новый",
-      "Тип": "4-заходный"
+      "Size": "1200 mm",
+      "Load Capacity": "up to 2500 kg",
+      "Condition": "new",
+      "Type": "4-way entry"
     }
   },
   {
     "id": 4,
-    "title": "Б/У деревянный поддон",
+    "title": "Used Wooden Pallet",
     "image": "img/products/pr-4.webp",
     "price": 160,
     "currency": "₽",
-    "size": "1200х800, г.п. 2500 кг",
+    "size": "1200×800, load capacity 2500 kg",
     "details": {
-      "Размер": "1200×800 мм",
-      "Грузоподъёмность": "до 2000 кг",
-      "Материал": "древесина",
-      "Состояние": "б/у, хорошее",
-      "Тип": "4-заходный"
+      "Size": "1200×800 mm",
+      "Load Capacity": "up to 2000 kg",
+      "Material": "wood",
+      "Condition": "used, good condition",
+      "Type": "4-way entry"
     }
   },
   {
     "id": 5,
-    "title": "Усиленный деревянный поддон",
+    "title": "Reinforced Wooden Pallet",
     "image": "img/products/pr-5.webp",
     "price": 300,
     "currency": "₽",
-    "size": "1200х800, г.п. 2500 кг",
+    "size": "1200×800, load capacity 2500 kg",
     "details": {
-      "Размер": "1200×800 мм",
-      "Грузоподъёмность": "до 3000 кг",
-      "Материал": "усиленная древесина",
-      "Тип": "усиленный"
+      "Size": "1200×800 mm",
+      "Load Capacity": "up to 3000 kg",
+      "Material": "reinforced wood",
+      "Type": "reinforced"
     }
   },
   {
     "id": 6,
-    "title": "Универсальный вариант",
+    "title": "Universal Option",
     "image": "img/products/pr-6.webp",
     "price": 200,
     "currency": "₽",
-    "size": "1200х800, г.п. 2500 кг",
+    "size": "1200×800, load capacity 2500 kg",
     "details": {
-      "Длина": "1200 мм",
-      "Ширина": "800 мм",
-      "Высота": "144 мм",
-      "Грузоподъёмность": "2500 кг",
-      "Материал": "древесинахвойных и лиственных пород II сорта",
-      "Стандарт": "ГОСТ 33757-2016."
+      "Length": "1200 mm",
+      "Width": "800 mm",
+      "Height": "144 mm",
+      "Load Capacity": "2500 kg",
+      "Material": "softwood and hardwood, grade II",
+      "Standard": "GOST 33757-2016"
     }
   },
   {
     "id": 7,
-    "title": "Универсальный вариант2",
+    "title": "Universal Option 2",
     "image": "img/products/pr-7.webp",
     "price": 260,
     "currency": "₽",
-    "size": "1200х800, г.п. 2500 кг",
+    "size": "1200×800, load capacity 2500 kg",
     "details": {
-      "Длина": "1200 мм",
-      "Ширина": "800 мм",
-      "Высота": "144 мм",
-      "Грузоподъёмность": "2500 кг",
-      "Материал": "древесинахвойных и лиственных пород II сорта",
-      "Стандарт": "ГОСТ 33757-2016."
+      "Length": "1200 mm",
+      "Width": "800 mm",
+      "Height": "144 mm",
+      "Load Capacity": "2500 kg",
+      "Material": "softwood and hardwood, grade II",
+      "Standard": "GOST 33757-2016"
     }
   }
 ]
